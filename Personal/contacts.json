@@ -4,20 +4,49 @@
       "lastName": "Grayson",
       "email": "trueBatgirl@gmail.com",
       "favoriteColor": "Purple",
-      "birthday": "11/29/1966"
+      "birthday": "11/29/1966",
+      "career":"Student",
+      "favoritePastime":"Studying",
+      "Hometown":"Gotham"
     },
     "contact2": {
       "firstName": "Bruce",
       "lastName": "Kent",
       "email": "notSuperman@yahoo.com",
       "favoriteColor": "Red and Blue",
-      "birthday": "02/29/1950"
+      "birthday": "02/29/1950",
+      "career":"CEO",
+      "favoritePastime":"Throwing parties",
+      "Hometown":"Gotham"
     },
     "contact3": {
       "firstName": "Clarke",
       "lastName": "Wayne",
       "email": "n0par3nt$@darkweb.com",
       "favoriteColor": "Black",
-      "birthday": "04/17/1915"
+      "birthday": "04/17/1915",
+      "career":"Reporter",
+      "favoritePastime":"Taking pictures",
+      "Hometown":"Kandar"
+    },
+    "contact4": {
+      "firstName": "Kara",
+      "lastName": "Luthor",
+      "email": "de0Ag3nt@Lcorp.com",
+      "favoriteColor": "Green",
+      "birthday": " March 10, 1966",
+      "career":"Scientist",
+      "favoritePastime":"Helping those in need",
+      "Hometown":"National City"
+    },
+    "contact5": {
+      "firstName": "Lena",
+      "lastName": "Danvers",
+      "email": "4aB3tt3rW0r!d$@Lcorp.com",
+      "favoriteColor": "Blue",
+      "birthday": "October 24, 1993",
+      "career":"Scientist",
+      "favoritePastime":"Inventing",
+      "Hometown":"National City"
     }
   }
